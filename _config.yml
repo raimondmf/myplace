@@ -23,7 +23,7 @@ name                     : "Rai Miralles"
 description              : "ISO"
 url                      : "https://raimondmf.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/myplace" # the subpath of your site, e.g. "/blog"
-repository               : "raimondmf/myplace# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "raimondmf/myplace" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/fallback_5x3.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/Logo180.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "An ISO journey to real Security" # overrides the website title displayed in the masthead, use " " for no title
