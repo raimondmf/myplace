@@ -113,8 +113,8 @@ analytics:
 # Site Author
 author:
   name             : "Rai Miralles"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**ISO** working at Mercedes-Benz GSM."
+  avatar           : "/assets/images/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "ISO working at Mercedes-Benz GSM."
   location         : "Madrid"
   email            : "raimondmf@hotmail.com"
   links:
