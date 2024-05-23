@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en"
 title                    : "An ISO journey to real Security"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Where innovation meets infoSec" # site tagline that appears below site title in masthead
 name                     : "Rai Miralles"
 description              : "ISO"
 url                      : "https://raimondmf.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -114,7 +114,7 @@ analytics:
 author:
   name             : "Rai Miralles"
   avatar           : "/assets/images/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "ISO working at Mercedes-Benz GSM."
+  bio              : "**ISO** working at Mercedes-Benz GSM"
   location         : "Madrid"
   email            : "raimondmf@hotmail.com"
   links:
